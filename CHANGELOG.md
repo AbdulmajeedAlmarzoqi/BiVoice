@@ -7,7 +7,7 @@ TestFlight updates to the newest one on its own.
 
 **Fixed the delay and skipped phrases when you move quickly through items with VoiceOver.**
 
-**Support for iPhone Duo**, on both the outer and inner screens.
+**Support for iPhone Duo.**
 
 ## 1.0 (8) — 18 September 2026
 
