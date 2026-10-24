@@ -3,6 +3,14 @@
 BiVoice builds as they reach the [public beta](https://testflight.apple.com/join/KZUs8RRm).
 TestFlight updates to the newest one on its own.
 
+## 1.0 (10) — 24 October 2026
+
+**Fixed the delay and skipped phrases when you move quickly through items with VoiceOver.**
+
+**Support for iPhone Duo.**
+
+Bug fixes.
+
 ## 1.0 (9) — 24 October 2026
 
 **Fixed the delay and skipped phrases when you move quickly through items with VoiceOver.**
