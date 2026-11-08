@@ -3,6 +3,10 @@
 BiVoice builds as they reach the [public beta](https://testflight.apple.com/join/KZUs8RRm).
 TestFlight updates to the newest one on its own.
 
+## 1.0 (11) — 8 November 2026
+
+Bug fixes and improvements.
+
 ## 1.0 (10) — 24 October 2026
 
 **Fixed the delay and skipped phrases when you move quickly through items with VoiceOver.**
